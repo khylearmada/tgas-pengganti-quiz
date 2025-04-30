@@ -1,7 +1,7 @@
 <?php
-$akifah = "sehat";
-$walinya = "sehat";
- if ($akifah == "sehat" && $walinya == "sehat"){
+$akifahsehat = true;
+$walinyasehat = false;
+ if ($akifahsehat&& $walinyasehat){
     echo "akifah pergi sekolah";
 } else {
     echo "akifah tidak pergi sekolah";

@@ -4,5 +4,5 @@ $walinyasehat = false;
  if ($akifahsehat&& $walinyasehat){
     echo "akifah pergi sekolah";
 } else {
-    echo "akifah tidak pergi sekolah";
+    echo "maka akifah tidak pergi sekolah";
 }

@@ -1,6 +1,6 @@
 <?php
 
-echo "nama: auliyah nastity khayla armada. <br>";
+echo "nama: Auliyah Nastity Khayla Armada. <br>";
 echo "tempat tanggal lahir: surabaya.14juni 2008. <br>";
 echo "status: pelajar. <br>";
 echo "biografi saya: <br>";
